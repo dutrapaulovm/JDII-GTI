@@ -146,16 +146,16 @@ if __name__ == "__main__":
     env = Monitor(env=env)
     #env.seed(seed)
     #set_random_seed(seed)
-    """
-    #model = PPO("MlpPolicy", env=env, verbose=1, n_steps=4096)    
-    model = DQN("MlpPolicy", env=env, verbose=1)
+    
+    model = PPO("MlpPolicy", env=env, verbose=1, n_steps=2048)    
+    #model = DQN("MlpPolicy", env=env, verbose=1)
     model.learn(total_timesteps=10000)
     model.save("D:\ppo_walkenv")
 
     del model #excluir para demonstrar o carregamento do modelo
-    """
-    model = DQN.load("D:\ppo_walkenv")    
-    #model = PPO.load("D:\ppo_walkenv")
+    
+    #model = DQN.load("D:\ppo_walkenv")    
+    model = PPO.load("D:\ppo_walkenv")
     
     env = WalkEnv()    
     env = Monitor(env=env)
