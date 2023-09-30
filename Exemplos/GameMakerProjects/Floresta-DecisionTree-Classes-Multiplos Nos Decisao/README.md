@@ -8,8 +8,7 @@ Este projeto foi desenvolvido como parte das aulas da disciplina de **Sistemas I
 
 ## Funcionalidades
 
-## ⚠️ **Observação Importante**
-Aviso ou observação importante aqui.
+### ⚠️ **Exemplo com múltiplos nós de decisão**
 
 - Implementação de uma árvore de decisão que simula a escolha do jogador em atravessar a floresta à noite.
 - Neste exemplo, contém multiplos nós de decisão.

@@ -8,6 +8,8 @@ Este projeto foi desenvolvido como parte das aulas da disciplina de **Sistemas I
 
 ## Funcionalidades
 
+### ⚠️ **Exemplo com múltiplos nós de ação. Não possui múltiplos nós de decisão, entretando, pode ser facilmente adaptado para esse recurso.**
+
 - Implementação de uma árvore de decisão que simula a escolha do jogador em atravessar a floresta à noite.
 - Considera três fatores principais: a presença de uma lanterna, o medo do escuro e as condições de luminosidade.
 - Se o jogador usar a lanterna durante a noite, ele conseguirá atravessar a floresta com segurança.
