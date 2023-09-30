@@ -16,6 +16,8 @@ Este projeto foi desenvolvido como parte das aulas da disciplina de **Sistemas I
 - Se o jogador não usar a lanterna durante a noite, ele ficará com medo e não conseguirá atravessar a floresta.
 - Resultados variados com base nas escolhas do jogador, levando em conta os diferentes cenários possíveis.
 
+## Licença
+
 **Publicado e distribuído por Paulo Vinícius Moreira Dutra**
 
 Este conteúdo está sob uma Licença Creative Commons
