@@ -1,0 +1,1 @@
+rotulo = "Sim";
