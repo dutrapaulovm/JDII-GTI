@@ -20,5 +20,8 @@ Este projeto foi desenvolvido como parte das aulas da disciplina de **Sistemas I
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE.md) - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+**Publicado e distribuído por Paulo Vinícius Moreira Dutra**
+
+Este conteúdo está sob uma Licença Creative Commons
+Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0). Esta licença permite que outros remixem, adaptem e criem a partir deste trabalho para fins não comerciais, desde que atribuam aos autores o devido crédito e que licenciem as novas criações sob termos idênticos. Para maiores informações, veja em [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt)
 
