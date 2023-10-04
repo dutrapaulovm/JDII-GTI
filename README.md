@@ -1,2 +1,2 @@
 # SISINT
-Disciplina Sistemas Inteligentes - Curso: Gestão da Tecnologia da Informação - IFSUDESTEMG - Campus Muriaé
+Disciplina Jogos Digitais II - Curso: Gestão da Tecnologia da Informação - IFSUDESTEMG - Campus Muriaé
