@@ -4,7 +4,7 @@ Este é um projeto de exemplo desenvolvido no GameMaker que demonstra a implemen
 
 ## Contexto
 
-Este projeto foi desenvolvido como parte das aulas da disciplina de **Sistemas Inteligentes** no curso de **Gestão da Tecnologia da Informação** no **IFSUDESTEMG - Campus Muriaé**. Durante as aulas, os conceitos teóricos foram aplicados na prática para criar este exemplo funcional de uma árvore de decisão em um ambiente de jogo no GameMaker.
+Este projeto foi desenvolvido como parte das aulas da disciplina de **Jogos Digitais** no curso de **Gestão da Tecnologia da Informação** no **IFSUDESTEMG - Campus Muriaé**. Durante as aulas, os conceitos teóricos foram aplicados na prática para criar este exemplo funcional de uma árvore de decisão em um ambiente de jogo no GameMaker.
 
 ## Funcionalidades
 
