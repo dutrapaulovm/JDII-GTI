@@ -1,6 +1,6 @@
 # Projetos 
 
-Bem-vindo ao repositório de projetos desenvolvidos como parte das aulas da disciplina de **Sistemas Inteligentes** no curso de **Gestão da Tecnologia da Informação** no **IFSUDESTEMG - Campus Muriaé**. Este repositório contém uma série de projetos criados no GameMaker, GDevelop e Python para ajudar os alunos a entenderem os princípios fundamentais do desenvolvimento de jogos.
+Bem-vindo ao repositório de projetos desenvolvidos como parte das aulas da disciplina de **Jogos Digitais** no curso de **Gestão da Tecnologia da Informação** no **IFSUDESTEMG - Campus Muriaé**. Este repositório contém uma série de projetos criados no GameMaker, GDevelop e Python para ajudar os alunos a entenderem os princípios fundamentais do desenvolvimento de jogos.
 
 ## Conteúdo do Repositório
 
